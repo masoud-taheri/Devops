@@ -2,7 +2,7 @@
 
 read -p "please enter first number:" num1
 read -p "please enter second number:" num2
-
+read -p "please enter third number:" num3
 sum=`expr $num1 + $num2`
 echo "Sum is $sum"
 
