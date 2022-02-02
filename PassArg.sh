@@ -2,7 +2,7 @@
 
 name=$1
 work=$2
-
+echo "These changes are made in the newbranch"
 if [ $# -gt 2 ]
 then
 	echo "Some of the argument will be missed"
